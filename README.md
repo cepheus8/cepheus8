@@ -9,4 +9,4 @@
 
 ## Experience
 
-#### Feel free to evaluate my portfolio projects :sunglasses:
+#### Feel free to review my portfolio projects :sunglasses:

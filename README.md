@@ -1,5 +1,9 @@
 # Hi 👋, I'm Rafał
-A beginner frontend developer from Poland.<br><br>I am currently on a journey to becoming a full-time professional programmer! <br><br>Feel free to review my portfolio projects 😎<br><br><br><br>
+A beginner frontend developer from Poland.<br><br>I am currently on a journey to becoming a full-time professional programmer! <br><br>Feel free to review my main portfolio projects😎 
+
+- https://github.com/cepheus8/netflix-clone
+
+- https://github.com/cepheus8/TicTacToe  <br><br><br>
 
 
 # 💻 Tech Stack:
